@@ -13,7 +13,6 @@
 - 🔭 I’m currently exploring **Go (Golang)** and building projects to deepen my understanding.
 - 🌱 I’m passionate about **Python** and **TypeScript**, and I enjoy working on DevSecOps and cloud-native technologies.
 - 💬 Ask me about **Python, TypeScript, Docker, AWS, or anything DevSecOps-related**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-botareli23/) or [Facebook](https://www.facebook.com/gabriel.botareli.9).
 
 ---
 
